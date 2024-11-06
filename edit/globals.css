@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Roboto+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+    
+}
+:root {
+    --primary-color: #161616;
+    --secondary-color: #0184ff;
+    --main-color: #ffffff;
+    --secondaryHover-color: #007aec;
+  }
