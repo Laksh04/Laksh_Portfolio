@@ -1,14 +1,14 @@
 import Head from "next/head";
 import React from "react";
-import About from "../components/About";
-import Technologies from "../components/Technologies";
-import Experience from "../components/Experience";
-import Projects from "../components/Projects";
-import LeftSide from "../components/LeftSide";
-import RightSide from "../components/RightSide";
-import Header from "../components/Header";
-import Contact from "../components/Contact";
-import Footer from "../components/Footer";
+import About from "../components/about";
+import Technologies from "../components/technologies";
+import Experience from "../components/experience";
+import Projects from "../components/projects";
+import LeftSide from "../components/leftSide";
+import RightSide from "../components/rightSide";
+import Header from "../components/header";
+import Contact from "../components/contact";
+import Footer from "../components/footer";
 import { data } from "../edit/data";
 
 const Home = () => {
