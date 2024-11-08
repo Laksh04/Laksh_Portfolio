@@ -12,7 +12,7 @@ export const data = {
       "My expertise lies in Machine Learning & Predictive Modeling , NLP , Data Analysis & Visualization,Data Pipeline Development",
     email: "lshrivastava0909@gmail.com",
     gitHub: "https://github.com/Laksh04",
-    instaGram: "https://www.instagram.com/invites/contact/?igsh=7feu8nmnm9mk&utm_content=3ppfaps",
+    instaGram: "https://www.instagram.com/lakxzh/",
     linkedIn: "https://www.linkedin.com/in/laksh-shrivastava-858837215/",
     twitter: "",
   },
