@@ -9,7 +9,7 @@ export const data = {
     lastName: "Shrivastava",
     role: "Data Engineer at Symnax Analytics Pvt Ltd",
     about:
-      "My expertise lies in Data ETL  & Pipeline  Modeling, Automated end-to-end data flows, reducing manual intervention and ensuring real-time data availability.",
+      "My expertise lies in Data ETL  & Pipeline  Modeling , Automated end-to-end data flows, reducing manual intervention and ensuring real-time data availability.",
     email: "lshrivastava0909@gmail.com",
     gitHub: "https://github.com/Laksh04",
     instaGram: "https://www.instagram.com/lakxzh/",
