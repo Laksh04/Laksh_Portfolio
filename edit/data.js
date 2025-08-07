@@ -7,9 +7,9 @@ export const data = {
   details: {
     firstName: "Laksh",
     lastName: "Shrivastava",
-    role: "Data Science / Data analyist",
+    role: "Data Engineer at Symnax Analytics Pvt Ltd",
     about:
-      "My expertise lies in Machine Learning & Predictive Modeling , NLP , Data Analysis & Visualization,Data Pipeline Development",
+      "My expertise lies in Data ETL  & Pipeline  Modeling, Automated end-to-end data flows, reducing manual intervention and ensuring real-time data availability.",
     email: "lshrivastava0909@gmail.com",
     gitHub: "https://github.com/Laksh04",
     instaGram: "https://www.instagram.com/lakxzh/",
@@ -17,7 +17,7 @@ export const data = {
     twitter: "",
   },
   technologiesSection: {
-    heading: "I've worked with a range of technologies related to Data Science ",
+    heading: "I've worked with a range of technologies related to Machine Learnign and Data ETL ",
     tech: [
       {
         id: "1",
